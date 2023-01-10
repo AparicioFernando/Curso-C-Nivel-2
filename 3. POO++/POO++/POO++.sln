@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33122.133
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "herencia", "herencia\herencia.csproj", "{747427F6-9C78-4B83-8D75-33F150DE99B2}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "herencia2", "herencia2\herencia2.csproj", "{5FF21BBA-121E-49C6-A897-FF7BC0554FD0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "herencia3", "herencia3\herencia3.csproj", "{BC2AE488-D379-472B-BB3B-91AF623DC02B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{747427F6-9C78-4B83-8D75-33F150DE99B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{747427F6-9C78-4B83-8D75-33F150DE99B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{747427F6-9C78-4B83-8D75-33F150DE99B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{747427F6-9C78-4B83-8D75-33F150DE99B2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5FF21BBA-121E-49C6-A897-FF7BC0554FD0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5FF21BBA-121E-49C6-A897-FF7BC0554FD0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5FF21BBA-121E-49C6-A897-FF7BC0554FD0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5FF21BBA-121E-49C6-A897-FF7BC0554FD0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BC2AE488-D379-472B-BB3B-91AF623DC02B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC2AE488-D379-472B-BB3B-91AF623DC02B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC2AE488-D379-472B-BB3B-91AF623DC02B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC2AE488-D379-472B-BB3B-91AF623DC02B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FD69F91C-E9AC-409D-BD02-3C2CC303CAB7}
+	EndGlobalSection
+EndGlobal

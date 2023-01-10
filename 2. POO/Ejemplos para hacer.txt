@@ -1,0 +1,6 @@
+Persona: Edad, Sueldo, Nombre
+Botella: Capacidad, Color, Material
+Perro-. Nombre, Color, Origen
+
+Artículo: Código, Precio
+Venta: Código Artículo, Cantidad, Código Cliente
