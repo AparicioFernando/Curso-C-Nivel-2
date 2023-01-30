@@ -48,6 +48,22 @@ namespace Negocio
             }
         }
 
+        public void ejecutarAccion()
+        {
+            comando.Connection = conexion;
+
+            try
+            {
+                conexion.Open();
+                comando.ExecuteNonQuery();
+            }
+            catch (Exception ex)
+            {
+
+                throw ex;
+            }
+        }
+
         //5° funcion para cerrar conexion
         public void cerrarConexion()
         {             

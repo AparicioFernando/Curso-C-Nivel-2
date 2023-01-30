@@ -48,5 +48,11 @@ namespace winform_app_2
                 pbPokemon.Load("https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Placeholder_view_vector.svg/681px-Placeholder_view_vector.svg.png");              
             }
         }
+
+        private void btnAgregar_Click(object sender, EventArgs e)
+        {
+            frmAltaPokemon alta=new frmAltaPokemon();
+            alta.ShowDialog();
+        }
     }
 }
